@@ -2,7 +2,7 @@
 
 ## Objective
 
-this assignments's objective is to compute z-algorithm and KMP-algorithm pattern matching given a text and a desired pattern to be found.
+This assignments's objective is to compute z-algorithm and KMP-algorithm pattern matching given a text and a desired pattern to be found.
 
 ## Programming Language
 
